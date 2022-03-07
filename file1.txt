@@ -1,2 +1,2 @@
-first line of  file1second line 
-Third line
+first line of  file1
+second line
